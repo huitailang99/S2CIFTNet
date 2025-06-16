@@ -1,2 +1,2 @@
 # S2CIFTNet
-paper code
+The code is being organized
